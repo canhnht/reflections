@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+	Difference shows which part of a file is modified. We knew how the old version works and how it was
+	modified, so we can figure out the bug.
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	I can see the overall evolvement of a file. I can see how the file was modified, which part was added
+	and deleted. I helps me remember why I add or remove that parts. Based on that, I can earn some experiences.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs
+having versions automatically saved, like Google docs does?
+	Pros: You can control which version you want to save. You can make a commit resonably based on a logic and	
+	understanding modification. You can add some messages for your commit.
+	Cons: You have to do it manually. It could take some time. Sometimes you can make a mistake or
+	forget committing.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others,
+like Google Docs, treat each file seperately?
+	Because Git works with a whole project, which contains a lot of files which are independent or somehow related.
+	While Google Docs is just used to open a file at a time. So Google Docs just needs to save history of a file.
+
+
+
+How can you use the command git log and git diff to view the history of files?
+	git log is used to list all commits.
+	git diff is used to show the difference between two or more commits.
+
+
+
+How might using version control make you more confident to make changes that could break something?
+	It really makes me confident to have some changes in my code. I can change my code without worrying about
+	losing my previous working code.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	I will use Git to keep track all of my code versions.
