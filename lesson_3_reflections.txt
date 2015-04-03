@@ -1,0 +1,4 @@
+When would you want to use a remote repository rathen than keeping all your work local?
+  When I want to public and share my code to others.
+  When I need others to contribute to my project.
+  When I want my code and my product to be free to everyone.
