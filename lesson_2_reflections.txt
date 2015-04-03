@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+	When initializing a repository, an empty ".git" folder is created automatically. This folder stores
+	all information and snapshots of current folder.
+	I need to do it because this command will make an empty repository which is used later to store information of
+	current directory. A repository will contain a ".git" folder which is used in version control program called Git.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area is like an virtual intermediate part between directory and repository. It helps to prepare what
+	files to be added to repository. Moreover, it helps user to confirm themselves that which files are needed to
+	update, which files are not. Then staging area will be a place to collect all of needed files to add to 
+	repository.
